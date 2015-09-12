@@ -1,3 +1,12 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 The respository is created but I still need to add files to the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The manual step to add into the staging area ensures every change is reviewed and stamped ready to go.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches help you experiment with code that you don't necessary want to pull into the master branch. You can discard the branch or create something completely new out of it.
+
