@@ -14,3 +14,6 @@ How do the diagrams help you visualize the branch structure?
 
 It helps us understand the reachability of each commit node.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches will result in one master branch. Using a diagram helps demonstrate what happens.
