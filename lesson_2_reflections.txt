@@ -10,3 +10,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 Branches help you experiment with code that you don't necessary want to pull into the master branch. You can discard the branch or create something completely new out of it.
 
+How do the diagrams help you visualize the branch structure?
+
+It helps us understand the reachability of each commit node.
+
