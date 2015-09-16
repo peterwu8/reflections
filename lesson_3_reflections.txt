@@ -14,3 +14,16 @@ A branch is just an alias to a commit ID.
 
 You use a fork if you want to eventually submit a pull request.
 You use a clone if you want to make a copy. You branch to experiment on something without affecting the master branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It helps set the user's expectations before s/he commits a change, especially if the user runs 'git status'.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be harder since I would not be able to easily point out what I changed.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If you want to implement an idea that is diverges from the master, then branching makes sense.
+In the earlier phase of the "master" project, it's ok to work directly on the master.
