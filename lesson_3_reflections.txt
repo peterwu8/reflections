@@ -6,3 +6,11 @@ Why might you want to always pull changes manually rather than having Git automa
 
 You don't always have internet access so it would be inconvenient to force it and get connection errors.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is tied to the original repository so you can view the log history.
+A clone is a simple copy of the original repository so you don't have the log history.
+A branch is just an alias to a commit ID.
+
+You use a fork if you want to eventually submit a pull request.
+You use a clone if you want to make a copy. You branch to experiment on something without affecting the master branch.
